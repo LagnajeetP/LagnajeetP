@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Lagnajeet%20Panigrahi&fontSize=42&height=180&section=header" />
+</p>
+
 # Hey, I'm Lagnajeet 👋
 
 I'm an EECS student at UC Berkeley interested in **AI systems, World Models, Full Stack Development, Agentic AI, robotics, applied ML, and hackathons/building!**.
