@@ -67,3 +67,9 @@ Built a multimodal claims-resolution agent that combines voice transcripts, dama
 - [LinkedIn](https://www.linkedin.com/in/lagnajeetp/)
 - [GitHub](https://github.com/LagnajeetP)
 - Email: lpanigrahi@berkeley.edu
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LagnajeetP&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LagnajeetP&layout=compact&theme=tokyonight" height="160" />
+</p>
