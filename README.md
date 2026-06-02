@@ -1,9 +1,9 @@
 # Hey, I'm Lagnajeet 👋
 
-I'm an EECS student at UC Berkeley building at the intersection of **AI systems, robotics, healthcare, and applied ML**.
+I'm an EECS student at UC Berkeley interested in **AI systems, World Models, Full Stack Development, Agentic AI, robotics, applied ML, and hackathons/building!**.
 
 Currently, I'm working on:
-- 🧠 Machine learning + healthcare AI at EnsureCare.ai
+- 🧠 Machine Learning Pipelines and Full Stack Developement
 - 🚁 World models and quadrotor dynamics at Berkeley AI Research / ARPL
 - ⚖️ Verifiable AI systems, trusted execution, and agentic workflows
 - 🧬 Computational biology and sequence-based prediction models
@@ -12,15 +12,15 @@ Currently, I'm working on:
 
 ## 🚀 Featured Projects
 
-### 🧾 ClaimLens — Multimodal Voice Agent for Claims Resolution
-**1st Place, Customer Service & FinOps Track — Beat the Clock Agent Hack / a16z Boston Tech Week**
 
-Built a multimodal claims-resolution agent that combines voice transcripts, damage photos, receipts, policy reasoning, and audit logs into one verified decision workflow.
+### 🧑‍⚖️ Claimd — AI-Assisted Disability Claims Platform
+**2nd Place, CalHacks 12.0 Promise Track; Presented and Demoed to Promise (YC 18)**
 
-**Tech:** TypeScript, React, LLMs, Vision-Language Models, TTS, Agent Workflows  
-[GitHub](https://github.com/LagnajeetP/ClaimLens_AgentHackWayFair)
+Built an AI-assisted SSDI caseworker portal using document analysis, evidence snippets, reviewer workflows, and scalable claim prioritization.
 
----
+**Tech:** AWS Lambda, SQS, AI Agents, Data Pipelines, React  
+[GitHub](https://github.com/LagnajeetP/Claimd---CalHacks12.0)
+
 
 ### ⚖️ VeriLaw — Verifiable AI Legal Compliance Platform
 **a16z Hackathon Winner — 1st Monetization Track, 3rd EigenLayer Track**
@@ -32,15 +32,13 @@ Built an AI compliance platform that runs LLM document checks inside a Trusted E
 
 ---
 
-### 🧑‍⚖️ Claimd — AI-Assisted Disability Claims Platform
-**2nd Place, CalHacks 12.0 Promise Track**
+### 🧾 ClaimLens — Multimodal Voice Agent for Claims Resolution
+**1st Place, Customer Service & FinOps Track — Beat the Clock Agent Hack / a16z Boston Tech Week**
 
-Built an AI-assisted SSDI caseworker portal using document analysis, evidence snippets, reviewer workflows, and scalable claim prioritization.
+Built a multimodal claims-resolution agent that combines voice transcripts, damage photos, receipts, policy reasoning, and audit logs into one verified decision workflow.
 
-**Tech:** AWS Lambda, SQS, AI Agents, Data Pipelines, React  
-[GitHub](https://github.com/LagnajeetP/Claimd---CalHacks12.0)
-
----
+**Tech:** TypeScript, React, LLMs, Vision-Language Models, TTS, Agent Workflows  
+[GitHub](https://github.com/LagnajeetP/ClaimLens_AgentHackWayFair)
 
 ## 🛠️ Tech Stack
 
@@ -53,11 +51,11 @@ Built an AI-assisted SSDI caseworker portal using document analysis, evidence sn
 
 ## 📌 What I'm Interested In
 
-- AI agents that do useful real-world work
+- AI agents
 - Robotics, autonomy, and world models
 - Healthcare AI and computational biology
 - Trustworthy AI, privacy, and verifiable computation
-- ML systems that move from demos to deployment
+- Startups!
 
 ---
 
