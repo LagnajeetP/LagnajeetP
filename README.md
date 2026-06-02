@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Lagnajeet Panigrahi GitHub Banner" width="100%" />
+  <img src="./Profilebanner.png" alt="Lagnajeet Panigrahi GitHub Banner" width="100%" />
 </p>
 # Hey, I'm Lagnajeet 👋
 
