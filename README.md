@@ -22,7 +22,7 @@ Currently, I'm working on:
 Built an AI-assisted SSDI caseworker portal using document analysis, evidence snippets, reviewer workflows, and scalable claim prioritization.
 
 **Tech:** AWS Lambda, SQS, AI Agents, Data Pipelines, React  
-[GitHub](https://github.com/LagnajeetP/Claimd---CalHacks12.0)
+[GitHub](https://github.com/LagnajeetP/Claimd-Calhacks-12.0-Promise-Demo-Day)
 
 
 ### ⚖️ VeriLaw — Verifiable AI Legal Compliance Platform
